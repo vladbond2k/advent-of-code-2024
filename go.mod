@@ -1,3 +1,3 @@
-module advent-of-code-2025
+module advent-of-code-2024
 
 go 1.22
